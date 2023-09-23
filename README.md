@@ -7,7 +7,7 @@
 - pip install pandas
 - pip install matplotlib
 - pip install scikit-learn
-- 
+
 ### download dataset provided
 
 ### Run the following command 
